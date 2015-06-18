@@ -8,6 +8,7 @@ android {
         applicationId "com.goibibo.sunshine"
         minSdkVersion 17
         targetSdkVersion 22
+        maxSdkVersion 22
         versionCode 1
         versionName "1.0"
     }
